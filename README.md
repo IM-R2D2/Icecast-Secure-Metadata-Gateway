@@ -72,3 +72,21 @@ Respected security principles
 Avoided breaking the existing stack
 And maybe, just maybe, it'll help someone else avoid shouting into the void during a Friday deploy.
 
+
+
+## ❗ About This Code
+
+This repository includes a **demo** version of the metadata-watching script.  
+The actual XML parsing logic and event handling is omitted by design.
+
+This is to:
+- Prevent careless copy-pasting in production environments
+- Avoid misuse without understanding the risks
+- Respect the original client and infrastructure context
+
+If you're working on a similar setup and want to collaborate or request the full version, contact the author.
+
+---
+
+📫 Contact: [r2agg.director@gmail.com]  
+🔒 License: Closed-source demo (do not redistribute as-is)

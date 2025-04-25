@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ELEM_LIST WRITE_TIME="2025-04-25 04:43:53">
+  <ELEM STATUS="playing">
+    <START_TIME>04:43:50</START_TIME>
+    <START_DATE>2025-04-25</START_DATE>
+    <BLK_TYPE>A</BLK_TYPE>
+    <TYPE>A</TYPE>
+    <NAME>Sample Title</NAME>
+    <ARTIST>Sample Artist</ARTIST>
+    <AUTHOR>Sample Author</AUTHOR>
+    <ALBUM>Sample Album</ALBUM>
+    <FILE_NAME>/music/sample.mp3</FILE_NAME>
+    <DURATION>00:03:44</DURATION>
+    <RETRANSMISSION>0</RETRANSMISSION>
+  </ELEM>
+
+  <ELEM STATUS="preloaded">
+    <BLK_TYPE>B</BLK_TYPE>
+    <TYPE>B</TYPE>
+    <NAME>Promo Segment</NAME>
+    <ARTIST>Station</ARTIST>
+    <AUTHOR></AUTHOR>
+    <ALBUM></ALBUM>
+    <FILE_NAME>/promo/promo_segment.mp3</FILE_NAME>
+    <DURATION>00:00:12</DURATION>
+    <RETRANSMISSION>0</RETRANSMISSION>
+  </ELEM>
+
+  <ELEM>
+    <BLK_TYPE>A</BLK_TYPE>
+    <TYPE>A</TYPE>
+    <NAME>Another Track</NAME>
+    <ARTIST>Another Artist</ARTIST>
+    <AUTHOR>Another Author</AUTHOR>
+    <ALBUM>Another Album</ALBUM>
+    <FILE_NAME>/archive/another.mp3</FILE_NAME>
+    <DURATION>00:04:16</DURATION>
+    <RETRANSMISSION>0</RETRANSMISSION>
+  </ELEM>
+</ELEM_LIST>

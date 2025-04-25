@@ -1,0 +1,13 @@
+[Unit]
+Description=metadata-watcher
+After=network.target
+
+[Service]
+ExecStart=/path/to/your//path/to/your.sh
+WorkingDirectory=/path/to/your/
+Restart=always
+User=someuser
+Group=someuser
+
+[Install]
+WantedBy=multi-user.target
